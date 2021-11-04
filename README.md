@@ -27,7 +27,7 @@ During his turn the AI will check for the following condition in this order:
 <br/>
 
 ## Features
-* Triple scene game: title, game, gameover
+* Triple scene game: title, game, match over
 * 1 or 2 players mode
 * Mouse control
 * Basic sounds
