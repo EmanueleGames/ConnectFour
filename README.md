@@ -34,7 +34,7 @@ During his turn the AI will check for the following condition in this order:
 * Basic sounds
 * VSync disabled
 * Average FPS counter
-p
+
 <br/>
 <br/>
 
