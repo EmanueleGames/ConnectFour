@@ -1,9 +1,11 @@
 # Connect Four
 <br/>
+<!--START_SECTION:update_image-->
 <p align="center">
   <img src="http://emanuelecarrino.altervista.org/images/portfolio/connectfour_1024x768.png" />
 </p>
 <br/>
+<!--END_SECTION:update_image-->
 
 ## Development
 **IDE:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Microsoft Visual Studio  
