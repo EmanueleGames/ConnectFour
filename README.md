@@ -1,7 +1,7 @@
 # Connect Four
 <br/>
 <p align="center">
-  <img src="http://emanuelecarrino.altervista.org/images/portfolio/connectfour_1024x768.png" />
+  <img src="http://emanuelecarrino.altervista.org/images/portfolio/arkanoid_1024x768.png" />
 </p>
 <br/>
 
