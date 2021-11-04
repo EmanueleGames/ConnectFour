@@ -22,8 +22,9 @@
 During his turn the AI will check for the following condition in this order:  
 1. If there is a winning move, the AI will win.  
 2. If there is a winning move for the player, the AI will block it.  
-3. If there is a move that will let the player win on his next turn, the AI will avoid it.  
-4. If none of the above condition verifies, the AI will make a random move.
+3. If there is a move that will let the AI win the next turn, the AI will go for it. 
+4. If there is a move that will let the player win on his next turn, the AI will avoid it.  
+5. If none of the above condition verifies, the AI will make a random move.
 <br/>
 
 ## Features
