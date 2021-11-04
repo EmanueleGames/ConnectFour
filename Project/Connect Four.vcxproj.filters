@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di risorse">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione\GameState">
+      <UniqueIdentifier>{16051d0e-a224-44c0-bbf4-24e4527b744d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File di origine\GameState">
+      <UniqueIdentifier>{8b374a64-eb50-460c-9ea8-3a10bd33b491}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="clColumnHint.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clDiskSlot.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clTexture.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clTimer.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="constants.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="globals.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="clGameState.h">
+      <Filter>File di intestazione\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="clIntroState.h">
+      <Filter>File di intestazione\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="clMatchOverState.h">
+      <Filter>File di intestazione\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="clPlayState.h">
+      <Filter>File di intestazione\GameState</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="clColumnHint.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clDiskSlot.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clTexture.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clTimer.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="globals.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+    <ClCompile Include="clIntroState.cpp">
+      <Filter>File di origine\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="clMatchOverState.cpp">
+      <Filter>File di origine\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="clPlayState.cpp">
+      <Filter>File di origine\GameState</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
