@@ -16,7 +16,7 @@
 > inheritance, polymorphism, operator overloading.  
 > Game has 1 Player mode (player vs AI) and 2 player mode (Player vs Player).  
 > AI is tweaked to give player a bit of a challenge.  
-> VSync dibabled, FPS are capped manually in the game loop  
+> VSync dibabled, FPS are capped manually in the game loop.  
 > Multiple source files. 1024x768 pixels resolution.
 
 ## How AI works  
