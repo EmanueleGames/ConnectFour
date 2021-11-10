@@ -20,7 +20,7 @@
 > Multiple source files. 1024x768 pixels resolution.
 
 ## How AI works  
-During his turn the AI will check for the following condition in this order:  
+During his turn the AI will check for the following conditions in this order:  
 1. If there is a winning move, the AI will win.  
 2. If there is a winning move for the player, the AI will block it.  
 3. If there is a move that will let the AI win the next turn, the AI will go for it. 
