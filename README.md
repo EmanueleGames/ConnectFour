@@ -11,7 +11,6 @@
 **Language:** &nbsp;&nbsp; C++  
 **Libraries:** &nbsp;&nbsp;&nbsp;&nbsp; SDL2 (Simple DirectMedia Layer)
 <br/>
-> Connect Four 2D videogame.  
 > Multiple scene implemented with Object Oriented State Machine:  
 > inheritance, polymorphism, operator overloading.  
 > Game has 1 Player mode (player vs AI) and 2 player mode (Player vs Player).  
